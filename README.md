@@ -70,7 +70,7 @@ The dataset was split using stratified techniques into Training and Testing subs
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com
+git clone https://github.com/Ananya332004/HR-Anaytics-Dashboard-and-Prediction
 cd HR-Analytics-Dashboard-and-Prediction
 ```
 
