@@ -71,7 +71,7 @@ The dataset was split using stratified techniques into Training and Testing subs
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com
-cd HR_Analytics
+cd HR-Analytics-Dashboard-and-Prediction
 ```
 
 ### 2. Run the Predictive Application UI
