@@ -74,17 +74,12 @@ git clone https://github.com
 cd HR_Analytics
 ```
 
-### 2. Install Project Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the Predictive Application UI
+### 2. Run the Predictive Application UI
 Ensure your `HR_Analytics_Prediction/` folder contains your exported `.pkl` files, then trigger the engine:
 ```bash
 streamlit run app.py
 ```
-
+---
 ## 👥 Contributors & Contact
 * **Developer:** [Ananya](https://github.com)
 * **Target Focus:** Data Analytics / Business Intelligence / Machine Learning Applications
